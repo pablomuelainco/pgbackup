@@ -3,7 +3,7 @@ pgbackup
 
 _This is a toy project from A Cloud Guru's [Introduction to Python Development][link-1] course._
 
-link-1: https://acloud.guru/course/introduction-to-python-development
+[link-1]: https://acloud.guru/course/introduction-to-python-development
 
 ---
 
