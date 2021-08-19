@@ -6,12 +6,11 @@ with open('README.md', 'r') as f:
 
 setup(
     name='pgbackup',
-    version='0.1.0',
-    author='Edson Samuel Jr',
-    author_email='samuedson@gmail.com'
+    version='0.0.1',
+    author='PM',
     description="A toy project from A Cloud Guru's Introduction to Python Development course"
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/mstred/pgbackup'
+    url='https://github.com/pablomuelainco/pgbackup'
     packages=find_packages('src')
 )
